@@ -1,0 +1,9 @@
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+.user{
+  border: 2px solid red;
+  padding: 2rem;
+}
